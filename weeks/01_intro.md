@@ -45,9 +45,10 @@ We aim to create distributed instruments for computed expression.
 ## Swift Programming
 
 - [Swift Programming history](<https://en.wikipedia.org/wiki/Swift_(programming_language)>)
-- [changes](https://www.hackingwithswift.com/swift)
+- [changes - with playground demos](https://www.hackingwithswift.com/swift)
 - an evolving language:
 
+  - 2025 Swift 6.1 March 31, 2025
   - 2024 Swift 6.0 September 16, 2024
   <!-- - 2024 Swift 5.10.1 June 5, 2024 -->
   - 2023 Swift 5.9.2 December 11, 2023
@@ -71,6 +72,15 @@ We aim to create distributed instruments for computed expression.
 - [Flutter/Dart -- Build for any screen](https://flutter.dev/)
 - [React Native -- Learn once, write anywhere](https://reactnative.dev/)
 - [NativeScript -- Empower JavaScript with native APIs](https://nativescript.org/)
+
+## Swift on the server
+
+- [vapor - Swift, but on a server](https://vapor.codes/)
+
+## Swift on the web
+
+- [Ignite - static site builder for Swift developers](https://github.com/twostraws/Ignite)
+  - [ignitesamples](https://ignitesamples.hackingwithswift.com/)
 
 ## Resources - Swift
 
