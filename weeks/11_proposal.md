@@ -72,7 +72,7 @@
 
   - progress | problems| plans | questions
 
-- [wiki home page week11](https://github.com/molab-itp/content-2025-01/wiki#week-11-homework)
+- [wiki home page week11](https://github.com/molab-itp/content-2025-09/wiki#week-11-homework)
 
 <!--
 - [review Bucketlist branch: list](https://github.com/molab-itp/09-Bucketlist.git)

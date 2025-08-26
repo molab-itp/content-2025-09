@@ -137,7 +137,7 @@
 
 - create a Week09 folder for your project and add link to it here:
 
-- [wiki home page week09](https://github.com/molab-itp/content-2025-01/wiki#week-09-homework)
+- [wiki home page week09](https://github.com/molab-itp/content-2025-09/wiki#week-09-homework)
 
   - update your wiki page with your
     - progress,

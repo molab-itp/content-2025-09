@@ -36,7 +36,7 @@
 
 ### Terminal basics
 
-- Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2025-01/wiki)
+- Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2025-09/wiki)
 
 ```
 # script to clone the class wiki
@@ -46,7 +46,7 @@
 cd ~/Documents
 
 # clone local copy of wiki
-git clone https://github.com/molab-itp/content-2025-01.wiki.git
+git clone https://github.com/molab-itp/content-2025-09.wiki.git
 
 # basic commands
 
@@ -162,6 +162,6 @@ node_modules
 
 - add a link to your Week02 folder on the
 
-  - [wiki home page](https://github.com/molab-itp/content-2025-01/wiki#week-02-homework)
+  - [wiki home page](https://github.com/molab-itp/content-2025-09/wiki#week-02-homework)
 
   - update your wiki page with any issues

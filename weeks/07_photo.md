@@ -132,7 +132,7 @@ more .gitconfig
 
 - create a Week07 folder for your project and add link to it here:
 
-  - [wiki home page week07](https://github.com/molab-itp/content-2025-01/wiki#week-07-homework)
+  - [wiki home page week07](https://github.com/molab-itp/content-2025-09/wiki#week-07-homework)
 
   - update your wiki page with your
     - progress,

@@ -1,4 +1,4 @@
-# [content-2025-01 Mobile App Development Lab](https://github.com/molab-itp/content-2025-01)
+# [content-2025-09 Mobile App Development Lab](https://github.com/molab-itp/content-2025-09)
 
 One of the most transformative consumer products in history, the iPhone remains
 the standard bearer for great design and user experience. With the latest
@@ -81,7 +81,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 ## Class Resources
 
 - [class github organization](https://github.com/molab-itp)
-- [class homework wiki](https://github.com/molab-itp/content-2025-01/wiki)
+- [class homework wiki](https://github.com/molab-itp/content-2025-09/wiki)
 
 ## Extra Support
 

@@ -144,7 +144,7 @@ https://createwithplay.com/
 
 - create a Week06 folder for your project and add link to it here:
 
-  - [wiki home page week06](https://github.com/molab-itp/content-2025-01/wiki#week-06-homework)
+  - [wiki home page week06](https://github.com/molab-itp/content-2025-09/wiki#week-06-homework)
 
   - update your wiki page with your
     - progress,

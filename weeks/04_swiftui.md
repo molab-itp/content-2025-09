@@ -137,7 +137,7 @@ struct BookEditView: View {
 
 - add a link to your project stored in your Week04 folder on
 
-  - [wiki home page week04](https://github.com/molab-itp/content-2025-01/wiki#week-04-homework)
+  - [wiki home page week04](https://github.com/molab-itp/content-2025-09/wiki#week-04-homework)
 
 - document your progress and questions on your wiki page
 

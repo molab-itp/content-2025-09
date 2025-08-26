@@ -13,4 +13,4 @@
 
   - progress | problems| plans | questions
 
-- [wiki home page week13](https://github.com/molab-itp/content-2025-01/wiki#week-13-homework)
+- [wiki home page week13](https://github.com/molab-itp/content-2025-09/wiki#week-13-homework)

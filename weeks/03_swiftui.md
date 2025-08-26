@@ -130,7 +130,7 @@ Part 1.
 
 - add a link to your project stored in your Week03 folder on
 
-  - [wiki home page week03](https://github.com/molab-itp/content-2025-01/wiki#week-03-homework)
+  - [wiki home page week03](https://github.com/molab-itp/content-2025-09/wiki#week-03-homework)
 
 - document your progress and questions on your wiki page
 
