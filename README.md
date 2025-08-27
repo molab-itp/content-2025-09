@@ -83,7 +83,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Extra Support
 
-- [Office hours ](https://calendar.app.google/EWigTzkMnFDq7gFj6)
+- [Office hours ](https://calendar.app.google/5nCCZmxPQipKhbPP8)
 
   - Please book a time slot at least 24 hours before the time slot.
   - email me to arrange for other times.
