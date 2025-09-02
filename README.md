@@ -116,11 +116,17 @@ This is an in person class, attendance is required.
 
 - [itp-ima class attendance policy](https://itp.nyu.edu/help/itp-ima-class-attendance-policy/)
 
-```
+<!-- ```
 ITP’s Attendance Policy:
 Students are permitted the following number of absences:
 4 unit – 14 week classes that meet once a week: 2 absences
 Exceeding these unexcused absence guidelines is grounds for automatic failure.
+``` -->
+
+```
+IMA’s Attendance Policy:
+Students are permitted the following number of absences:
+4 unit – 14 week classes that meet twice a week: 3 absences
 ```
 
 ## Communication
@@ -156,6 +162,18 @@ Your health and safety are a priority at NYU. Emphasizing the importance of the 
 ## Statement on use of Electronic Devices
 
 Laptops will be an essential part of the course and may be used in class during workshops and for taking notes in lecture. Laptops must be closed during class discussions and student presentations. Phone use in class is strictly prohibited unless directly related to a presentation of your own work or if you are asked to do so as part of the curriculum.
+
+## AI STATEMENT
+
+You should treat AI tools just as you would any other source: cite the source and note how it was used (Harvard has a useful [guide to citation of AIs](https://guides.library.harvard.edu/c.php?g=1330621&p=10046069)). You should be prepared to explain how your use of it is the appropriate tool to fit your goal or concept and does not detract from your experience meeting the learning objectives of the assignment or course. There are some cases where the use of AI may fall under a form of plagiarism. Differentiate your work from your source’s work in a way that's clear to the reader or viewer. Additionally, you should be prepared to discuss the ethical concerns around the widespread use of emerging AI tools.
+
+## STATEMENT ON TITLE IX
+
+Tisch School of the Arts is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end, Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: [Link to the NYU Title IX Office](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
+
+## STATEMENT OF PRINCIPLE
+
+Teachers and students work together to create a supportive learning environment. The educational experience in the classroom is one that is enhanced by integrating varying perspectives and learning modes brought by students.
 
 # Previous Years
 
