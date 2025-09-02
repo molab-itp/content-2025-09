@@ -1,5 +1,7 @@
 # [content-2025-09 Mobile App Development Lab](https://github.com/molab-itp/content-2025-09)
 
+## COURSE DESCRIPTION
+
 One of the most transformative consumer products in history, the iPhone remains
 the standard bearer for great design and user experience. With the latest
 versions of iOS and iPhone, Apple puts depth sensing and augmented reality in
@@ -23,6 +25,15 @@ is recommended to run Xcode efficiently.
 
 Prereq:
 Some programming experience (such as ICM) and willingness to learn Apple's Swift programming language.
+
+## COURSE OBJECTIVES
+
+At the completion of this course, the student should be able to:
+
+- use the Swift language to create iOS apps that use the native capabilities iOS hardware
+- research Apple developer documentation and sample code to use Apple developer frameworks effectively
+- research open source libraries to rapidly add features to native iOS apps
+- become familiar with the Xcode development workflow
 
 ## Syllabus Overview
 
