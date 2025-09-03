@@ -40,7 +40,7 @@ We aim to create distributed instruments for computed expression.
 
 - [the epvisual team](https://jht1493.net/johnhenrythompson/ep-visual.html)
 
-- [patient 8700804](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8700804)
+- [patient 8700804](https://jht1493-gmail.github.io/jht-site/aa/archived/patent-8700804.pdf)
 
 ## Swift Programming
 
