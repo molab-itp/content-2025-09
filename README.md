@@ -30,7 +30,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 At the completion of this course, the student should be able to:
 
-- use the Swift language to create iOS apps that use the native capabilities iOS hardware
+- use the Swift language to create iOS apps that use native hardware capabilities
 - research Apple developer documentation and sample code to use Apple developer frameworks effectively
 - research open source libraries to rapidly add features to native iOS apps
 - become familiar with the Xcode development workflow
@@ -100,7 +100,7 @@ At the completion of this course, the student should be able to:
   - email me to arrange for other times.
 
 - [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule)
-- [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)
+- [The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help) search: Swift
 
 # Policies
 
