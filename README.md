@@ -169,6 +169,8 @@ Teachers and students work together to create a supportive learning environment.
 
 # Previous Years
 
+- [2025-01 molab](https://github.com/molab-itp/content-2025-01)
+
 - [2024-09 molab ](https://github.com/molab-itp/content-2024-09)
 
 - [2024-01 molab ](https://github.com/molab-itp/content-2024-01)
