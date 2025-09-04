@@ -1,8 +1,16 @@
-# 04_ObservableObject
+# 04_DataModel
 
 ## [[Back](./04_swiftui.md)] [[Next](./05_data.md)]
 
+### Managing model data in your app
+
+- iOS 17.0+ | iPadOS 17.0+ | macOS 14.0+ | Xcode 15.0+
+
+- [managing-model-data-in-your-app](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
+
 ### monitoring-model-data
+
+- iOS 16.2+ | iPadOS 16.2+ | macOS 13.1+ | Xcode 14.3+
 
 - [monitoring-model-data](https://developer.apple.com/documentation/swiftui/monitoring-model-data-changes-in-your-app)
 
