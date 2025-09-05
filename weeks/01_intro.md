@@ -173,6 +173,49 @@ Course example repos
 
 ## In Class Exercises
 
+### Terminal basics
+
+- Use Terminal to clone [course wiki](https://github.com/molab-itp/content-2025-09/wiki)
+
+```
+# script to clone the class wiki
+# enter in Terminal app
+
+# select location of wiki
+cd ~/Documents
+
+# clone local copy of wiki
+git clone https://github.com/molab-itp/content-2025-09.wiki.git
+
+# basic commands
+
+cd ~
+ls -la
+
+# setup for useful alias
+
+code ~/.zshrc
+alias ll='ls -l -a'
+alias og='open -a /Applications/GitHub\ Desktop.app'
+source ~/.zshrc
+
+```
+
+### global .gitignore
+
+```
+
+# keep unneeded files out of repo
+
+# create global .gitignore in user home directory
+cd ~
+code .gitignore
+.DS_Store
+**/xcuserdata/
+node_modules
+
+```
+
 ### Overview
 
 - Create your class github repo
