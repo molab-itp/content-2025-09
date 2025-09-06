@@ -19,6 +19,8 @@
 - [docs.swift.org - A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 - [Optional-Binding](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics#Optional-Binding)
 
+- [This is aimed at people who want to learn Swift quickly](https://www.hackingwithswift.com/sixty)
+
 - [Unwrap app - test your Swift programming fundamentals](https://apps.apple.com/us/app/unwrap/id1440611372)
 
 ## Setup

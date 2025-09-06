@@ -127,6 +127,8 @@ learn swift programming fundamentals by week 3
 
 consider doing over the next weeks in parallel with our course. pick one.
 
+- [This is aimed at people who want to learn Swift quickly](https://www.hackingwithswift.com/sixty)
+
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui) Days 14 - 100
 
   - [github hackingwithswift](https://github.com/twostraws/hackingwithswift)
