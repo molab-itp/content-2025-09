@@ -267,8 +267,6 @@ option 4:
 - document issues/errors in comments
 - save source of any errors
 
-## [Next](./02_swift.md)
-
 <!--
 - review the Swift resources
 - select resource(s) for learning Swift programming fundamentals
@@ -328,3 +326,5 @@ git clone https://github.com/molab-itp/content-2025-09.wiki.git
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays 
   -->
+
+## [[Next](./02_swift.md)]

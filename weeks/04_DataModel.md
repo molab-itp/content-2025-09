@@ -1,6 +1,6 @@
 # 04_DataModel
 
-## [[Back](./04_swiftui.md)] [[Next](./05_data.md)]
+## [[Previous](./04_swiftui.md)] [[Next](./05_data.md)]
 
 ### Managing model data in your app
 
