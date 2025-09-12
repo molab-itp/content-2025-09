@@ -209,6 +209,12 @@ Course example repos
 
   - make sure README.md option is checked
   - add **jht9629-nyu** as a collaborator
+  - add .gitignore
+
+```
+  .DS_Store
+  **/xcuserdata/
+```
 
 - add a folder named **Week01** to store this week's work
 
@@ -285,13 +291,20 @@ option 4:
 <!-- - (optional) clone wiki
 
 ```
+
 # script to clone the class wiki
+
 # enter in Terminal app
+
 # select location of wiki
+
 cd ~/Documents
+
 # clone local copy of wiki
+
 git clone https://github.com/molab-itp/content-2025-09.wiki.git
-``` -->
+
+```-->
 
 <!--
 - iOS Devices Capabilities
@@ -324,7 +337,11 @@ git clone https://github.com/molab-itp/content-2025-09.wiki.git
 
   <!-- - create a Xcode playground to explore emoji's and add it to your repo
   - encorporate Swift langage features you are learning
-  - eg. variables, for loops, arrays 
+  - eg. variables, for loops, arrays
   -->
 
 ## [[Next](./02_swift.md)]
+
+```
+
+```
