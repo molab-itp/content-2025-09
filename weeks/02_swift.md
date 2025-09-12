@@ -126,12 +126,13 @@ node_modules
   - https://developer.apple.com/tutorials/sample-apps/aboutme
   - using SwiftUI to display information across multiple tab views
 
-- [Capturing and Displaying Photos](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
+- [98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
 
-  - Browsing Your Photos - Apple Tutorial Tutorial
+  - Browsing Your Photos - based on Apple Tutorial Tutorial
+  - source:
+  - [Capturing and Displaying Photos - article](https://developer.apple.com/tutorials/sample-apps/capturingphotos-browsephotos)
+
   - [Uses Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12)
-
-  - [98-CaptureCameraStorage](https://github.com/molab-itp/98-CaptureCameraStorage)
 
     - Tutorial adapted to Xcode project
       - build to simulator | device
