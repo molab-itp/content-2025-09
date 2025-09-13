@@ -94,7 +94,7 @@ At the completion of this course, the student should be able to:
 
 ## Extra Support
 
-- [Office hours ](https://calendar.app.google/5nCCZmxPQipKhbPP8)
+- [My Office hours ](https://calendar.app.google/5nCCZmxPQipKhbPP8)
 
   - Please book a time slot at least 24 hours before the time slot.
   - email me to arrange for other times.
