@@ -137,11 +137,14 @@ Part 1.
 Part 2. begin research on your final project
 
 - consult wwdc videos
+
   - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
     - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
     - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
       <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
       <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
+
+- [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
 
 ### Featured Prior Final Projects
 
