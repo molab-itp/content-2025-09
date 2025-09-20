@@ -134,7 +134,7 @@ struct BookEditView: View {
 ### iOS 16 data modeling
 
 - Warning! data modeling updated for iOS 17
-- Projects that use ObservableObject must be updated
+- Projects that use ObservableObject should be updated
 
 - [iOS 16 data modeling](./04_ObservableObject.md);
 - [Migrating to iOS 17](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
