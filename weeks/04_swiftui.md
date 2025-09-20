@@ -129,18 +129,6 @@ struct BookEditView: View {
   - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 
-## Homework Week04
-
-- create a Week04 folder for your homework project
-
-- create your own SwiftUI app that incorporates time and/or audio playback. the app should have at least two pages
-
-- add a link to your project stored in your Week04 folder on
-
-  - [wiki home page week04](https://github.com/molab-itp/content-2025-09/wiki#week-04-homework)
-
-- document your progress and questions on your wiki page
-
 ## Legacy code
 
 ### iOS 16 data modeling
@@ -163,6 +151,16 @@ what came before SwiftUI
   - ios 13.0+
 
 ## Final Project Inspiration and Resources
+
+- consult wwdc videos
+
+  - [wwdcnotes](https://wwdcnotes.com/documentation/wwdcnotes/)
+    - [Meet MapKit for SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10043-meet-mapkit-for-swiftui)
+    - [What’s new in SwiftUI](https://wwdcnotes.com/documentation/wwdcnotes/wwdc23-10148-whats-new-in-swiftui)
+      <!-- - [Prototype with Xcode Playgrounds](https://www.wwdcnotes.com/notes/wwdc23/10250/) -->
+      <!-- - [SwiftUI Essentials](https://www.wwdcnotes.com/notes/wwdc19/216/) -->
+
+- [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
 
 - Possible basis and inspiration for final projects
 
@@ -195,3 +193,17 @@ what came before SwiftUI
 ## XCode indent preference\
 - ![xcode pref indent](../assets/xcode-pref-indent.png)
 -->
+
+## Homework Week04
+
+- complete any missing work
+
+- create a Week04 folder for your homework project
+
+- create your own SwiftUI app that incorporates time and/or audio playback. the app should have at least two pages
+
+- add a link to your project stored in your Week04 folder on
+
+  - [wiki home page week04](https://github.com/molab-itp/content-2025-09/wiki#week-04-homework)
+
+- document your progress and questions on your wiki page
