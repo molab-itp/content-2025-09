@@ -14,24 +14,19 @@
 
 - [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
 
-- [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
-
 - [03-UIGraphics-View](https://github.com/molab-itp/03-UIGraphics-View)
 
 - [03-Canvas-Explore](https://github.com/molab-itp/03-Canvas-Explore)
 
-## Lab
+## Lab - Using images
 
-### [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
+- [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
 
-<!-- - fix .gitignore
+  - AsyncImage to load image from url
 
-```
-.DS_Store
-**/xcuserdata/
-``` -->
+- [Week04-Demo](https://github.com/molab-itp/Week04-Demo)
 
-- using the asset catalog
+  - asset catalog for icon images
 
 ```
 Label("Shape1", image: "Shape1" )
@@ -128,6 +123,9 @@ struct BookEditView: View {
 
   - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
+
+<!-- ### [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
+- async/await loading of images -->
 
 ## Legacy code
 
