@@ -124,6 +124,13 @@ struct BookEditView: View {
   - Demonstration of using AVAudioPlayer to play both internal and web based audio files
   - [AVAudioPlayer docs](https://developer.apple.com/documentation/avfaudio/avaudioplayer)
 
+- analyzing code
+  - comments
+  - find definition
+  - adding comments example repos
+    - fork
+    - pull request to update parent repo
+
 <!-- ### [05-ImageEditDemo](https://github.com/molab-itp/05-ImageEditDemo)
 - async/await loading of images -->
 
