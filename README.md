@@ -2,6 +2,7 @@
 
 <details close>
 <summary>
+
 ## COURSE DESCRIPTION
 
 </summary>
