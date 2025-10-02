@@ -1,6 +1,10 @@
 # [content-2025-09 Mobile App Development Lab](https://github.com/molab-itp/content-2025-09)
 
+<details close>
+<summary>
 ## COURSE DESCRIPTION
+
+</summary>
 
 One of the most transformative consumer products in history, the iPhone remains
 the standard bearer for great design and user experience. With the latest
@@ -34,6 +38,8 @@ At the completion of this course, the student should be able to:
 - research Apple developer documentation and sample code to use Apple developer frameworks effectively
 - research open source libraries to rapidly add features to native iOS apps
 - become familiar with the Xcode development workflow
+
+</details>
 
 ## Syllabus Overview
 
