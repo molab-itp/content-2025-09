@@ -41,23 +41,25 @@
 
 ## Homework Week05
 
-- Option 1: continue working on past homework
+- Part 1: fundamentals & documentation
 
+  - continue working on past homework & keep wiki page up todate
   - make use of office hours and/or coding lab
+  - complete Swift Language Fundamentals
+  - your wiki page should have at least one entry for each week summarizing the work done / challenges that you encountered for that week.
+  -
 
-- Option 2: incorporate one of the class demos into your navigation app
+- Part 2: incorporate one of the class demos into your navigation app
 
   - for example, add app storage to your naviation app
+  - do this only if you are update on previous homework
 
 - create a Week05 folder for your project and add link to it here:
 
   - [wiki home page week05](https://github.com/molab-itp/content-2025-09/wiki#week-05-homework)
 
   - update your wiki page with your
-    - progress,
-    - problems,
-    - plans, and
-    - questions
+    - progress | problems | plans | questions
 
 ## Final Project Inspiration and Resources
 
