@@ -142,19 +142,6 @@ https://createwithplay.com/
 
 ```
 
-## Homework Week06
-
-- Option 1: continue working on past homework
-
-- Option 2: consider one of the options presented for saving data and add to your app
-
-- create a Week06 folder for your project and add link to it here:
-
-  - [wiki home page week06](https://github.com/molab-itp/content-2025-09/wiki#week-06-homework)
-
-  - update your wiki page with your
-    - progress | problems | plans | questions
-
 ## Final Project Inspiration and Resources
 
 - [Hacking with iOS: SwiftUI Edition](https://www.hackingwithswift.com/books/ios-swiftui/)
@@ -189,3 +176,18 @@ Download and verify the sample works before investing your time in further resea
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+
+## Homework Week06
+
+- Part 1: continue working on past homework & swift fundamentals
+
+- Part 2: consider one of the options presented for saving data and add to your app
+
+  - only do attempt if your up to date with past work
+
+- create a Week06 folder for your project and add link to it here:
+
+  - [wiki home page week06](https://github.com/molab-itp/content-2025-09/wiki#week-06-homework)
+
+  - update your wiki page with your
+    - progress | problems | plans | questions
