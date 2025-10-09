@@ -22,13 +22,17 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 ## In Class Exercise
 
-- Use the Router model for naviation
+- Use the Router model for navigation
 - Based on:
 
   - [03-ImageUiDemo-2-urls](https://github.com/molab-itp/03-ImageUiDemo-2-urls)
   - renaming and remixing Xcode project | recommended steps
   - [06-Router](https://github.com/molab-itp/06-Router)
     - Replaces NavigationView with Router @Observable class PageModel
+
+- explore Router used for simple game
+
+  - [06-GuessTeacher](https://github.com/molab-itp/06-GuessTeacher)
 
 - build BasicNav
   - from Build from Page9 [03-ImageUiDemo-1-symbols](https://github.com/molab-itp/03-ImageUiDemo-1-symbols)
@@ -45,6 +49,8 @@ Examples of using data, typically stored as JSON, to describe the navigational l
 
 - [06-Voice-Recorder](https://github.com/molab-itp/06-Voice-Recorder)
   - [source repo](https://github.com/pinlunhuang/Voice-Recorder)
+- [10-SpeakUp](https://github.com/molab-itp/10-SpeakUp.git)
+  - [source - subscription required](https://www.hackingwithswift.com/plus/live-streams/speak-up)
 
 ## JSON saving and loading
 
