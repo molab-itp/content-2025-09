@@ -183,7 +183,7 @@ Download and verify the sample works before investing your time in further resea
 
 - Part 2: consider one of the options presented for saving data and add to your app
 
-  - only do attempt if your up to date with past work
+  - only attempt if your up to date with past work
 
 - create a Week06 folder for your project and add link to it here:
 
