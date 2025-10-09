@@ -153,10 +153,7 @@ https://createwithplay.com/
   - [wiki home page week06](https://github.com/molab-itp/content-2025-09/wiki#week-06-homework)
 
   - update your wiki page with your
-    - progress,
-    - problems,
-    - plans, and
-    - questions
+    - progress | problems | plans | questions
 
 ## Final Project Inspiration and Resources
 
