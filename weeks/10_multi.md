@@ -89,7 +89,4 @@
 - [wiki home page week10](https://github.com/molab-itp/content-2025-09/wiki#week-10-homework)
 
   - update your wiki page with your
-    - progress,
-    - problems,
-    - plans, and
-    - questions
+    - progress | problems | plans | questions

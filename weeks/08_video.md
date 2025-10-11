@@ -52,30 +52,6 @@
 
 - [DICE-App](https://github.com/molab-itp/99-DICE-App-Prep)
 
-## Homework Week08
-
-- Midterm assessment requirement:
-  - Make sure your wiki page has at least one entry for each for the past weeks.
-- Option 1: work on previous assignments
-
-  - create place holder folders for past assigments
-  - continue studying Swift/SwiftUI and update wiki with your progress
-
-- Option 2: create a video manipulation app
-
-  - you can base it on one of the resources presented in class, adding your own twist
-  - add a link to your project here
-
-- create a Week08 folder for your project and add link to it here:
-
-- [wiki home page week08](https://github.com/molab-itp/content-2025-09/wiki#week-08-homework)
-
-  - update your wiki page with your
-    - progress,
-    - problems,
-    - plans, and
-    - questions
-
 ## Final Project Inspiration and Resources
 
 - Review Final Project Inspiration from previous weeks
@@ -136,3 +112,24 @@ Sample code is recommend starting point for exploring what's possible for a fina
   - Examine JSON file using Terminal App
 
   -->
+
+## Homework Week08
+
+- Midterm assessment requirement:
+  - Make sure your wiki page has at least one entry for each for the past weeks.
+- Option 1: work on previous assignments
+
+  - create place holder folders for past assigments
+  - continue studying Swift/SwiftUI and update wiki with your progress
+
+- Option 2: create a video manipulation app
+
+  - you can base it on one of the resources presented in class, adding your own twist
+  - add a link to your project here
+
+- create a Week08 folder for your project and add link to it here:
+
+- [wiki home page week08](https://github.com/molab-itp/content-2025-09/wiki#week-08-homework)
+
+  - update your wiki page with your
+    - progress | problems | plans | questions

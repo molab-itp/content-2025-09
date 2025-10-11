@@ -26,11 +26,11 @@
     - homework folder | new repo
     - note how and put a link in your wiki page
 - be prepared to present and discuss
-- update your wiki page
-
-  - progress | problems| plans | questions
 
 - [wiki home page week12](https://github.com/molab-itp/content-2025-09/wiki#week-12-homework)
+
+- update your wiki page
+  - progress | problems| plans | questions
 
 <!-- ### ARGeoTracking demo apps
 

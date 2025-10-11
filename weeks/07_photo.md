@@ -122,24 +122,6 @@ more .gitconfig
 
 <!-- - [methods_and_protocols_for_filter_creation - apple dev doc](https://developer.apple.com/documentation/coreimage/methods_and_protocols_for_filter_creation) -->
 
-## Homework Week07
-
-- Option 1: continue working on past homework
-
-- Option 2: create an app to access or manipulate photos
-
-  - you can base it on one of the resources presented in class, adding your own twist
-
-- create a Week07 folder for your project and add link to it here:
-
-  - [wiki home page week07](https://github.com/molab-itp/content-2025-09/wiki#week-07-homework)
-
-  - update your wiki page with your
-    - progress,
-    - problems,
-    - plans, and
-    - questions
-
 ## Final Project Inspiration and Resources
 
 - [Create 3D models with Object Capture - wwdc video 2021](https://developer.apple.com/videos/play/wwdc2021/10076/)
@@ -174,3 +156,18 @@ Download and verify the sample works before investing your time in further resea
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
 - [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+
+## Homework Week07
+
+- Option 1: continue working on past homework
+
+- Option 2: create an app to access or manipulate photos
+
+  - you can base it on one of the resources presented in class, adding your own twist
+
+- create a Week07 folder for your project and add link to it here:
+
+  - [wiki home page week07](https://github.com/molab-itp/content-2025-09/wiki#week-07-homework)
+
+  - update your wiki page with your
+    - progress | problems | plans | questions
