@@ -107,7 +107,7 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
   - Augmented Hacking ITPG-GT 2356 1
   - [git repo](https://github.com/augmentedhacking)
     - https://github.com/augmentedhacking/ar-scene-starter
-  - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0)
+    <!-- - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0) -->
 
 <!--
 ### Resources
