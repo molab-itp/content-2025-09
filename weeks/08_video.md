@@ -48,9 +48,21 @@
 
 ### Video processing
 
+- [08-CameraRecorder](https://github.com/molab-itp/08-CameraRecorder)
+
+  - apply core image filters to live video stream from camera
+  - record button to save video to Photo library
+  - minminal ObservableObject Model
+  - no need for Combine!
+
 - [08-FilterTheWorld](https://github.com/molab-itp/08-FilterTheWorld)
 
+  - Building a Camera App With SwiftUI and Combine
+  - from [www.kodeco.com](https://www.kodeco.com/26244793-building-a-camera-app-with-swiftui-and-combine)
+
 - [DICE-App](https://github.com/molab-itp/99-DICE-App-Prep)
+  - DICE: a platform for exploring art, learning, and computer science.
+  - Uses old Interface Builder UI framework, and Objective-C
 
 ## Final Project Inspiration and Resources
 
@@ -73,12 +85,20 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
 
 ### WWDC Sample Code
 
-Sample code is recommend starting point for exploring what's possible for a final project. Download and verify the sample works before investing your time in further research.
+- Sample code is recommend starting point for exploring what's possible for a final project.
+- Download and verify the sample works before investing your time in further research.
+- Use Filter option at bottom
 
-- [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
+- Note os version requirements
+
+  - eg: iOS 16.0+ iPadOS 16.0+ macOS 13.0+ watchOS 9.0+ Xcode 14.0+
+
+- [WWDC sample code](https://developer.apple.com/documentation/samplecode/)
+
+<!-- - [WWDC sample code 2023](https://developer.apple.com/sample-code/wwdc/2023/)
 - [WWDC sample code 2022](https://developer.apple.com/sample-code/wwdc/2022/)
 - [WWDC sample code 2021](https://developer.apple.com/sample-code/wwdc/2021/)
-- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/)
+- [WWDC sample code 2020](https://developer.apple.com/sample-code/wwdc/2020/) -->
 
 ### Augmented Hacking
 
@@ -116,7 +136,9 @@ Sample code is recommend starting point for exploring what's possible for a fina
 ## Homework Week08
 
 - Midterm assessment requirement:
+
   - Make sure your wiki page has at least one entry for each for the past weeks.
+
 - Option 1: work on previous assignments
 
   - create place holder folders for past assigments
