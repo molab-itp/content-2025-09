@@ -111,6 +111,11 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
     - https://github.com/augmentedhacking/ar-scene-starter
     <!-- - [swift-cookbook](https://www.kodeco.com/books/swift-cookbook/v1.0) -->
 
+### hackingwithswift.com
+
+- [hackingwithswift.com](https://www.hackingwithswift.com/)
+- [Hacktivate: Capture the Flag - Cybersecurity challenges](https://apps.apple.com/us/app/hacktivate-capture-the-flag/id6748286602)
+
 <!--
 ### Resources
 
