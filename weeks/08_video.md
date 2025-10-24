@@ -38,6 +38,8 @@
 - analyze add your comments
 - document what you don't know
 
+- [WebPlayer](https://github.com/molab-itp/WebPlayer)
+
 ### Photo access
 
 - [07-Instafilter](https://github.com/molab-itp/07-Instafilter)
