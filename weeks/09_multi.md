@@ -120,20 +120,24 @@
 
 ## Homework Week09
 
-- Prepare first draft of your final project proposal. Ok to entertain more than one initial concept.
+- Part 1:
 
-- Option 1:
+  - Prepare first draft of your final project proposal. Ok to entertain more than one initial concept.
 
-  - setup a firebase project and build one of the firebase tutorial apps
-    - FireCards
-    - MakeItSo
+- Part 2:
 
-- Option 2:
+  - Option 1:
 
-  - customize the **MoLobby** app in
-    - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
-    - with your own multi-user experience twist
-    - fork the repo and create a branch labeled with your name
+    - setup a firebase project and build one of the firebase tutorial apps
+      - FireCards
+      - MakeItSo
+
+  - Option 2:
+
+    - customize the **MoLobby** app in
+      - [98-MoGallery-Private](https://github.com/molab-itp/98-MoGallery-Private)
+      - with your own multi-user experience twist
+      - fork the repo and create a branch labeled with your name
 
 - create a Week09 folder for your project and add link to it here:
 
