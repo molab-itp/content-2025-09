@@ -141,3 +141,19 @@
 
   - update your wiki page with your
     - progress | problems | plans | questions
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
