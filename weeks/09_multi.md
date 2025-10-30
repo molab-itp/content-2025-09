@@ -14,6 +14,17 @@
 
 - Testflight update of MoGallery confirm - post an image
 
+## Guest developer
+
+- Adam Jonah
+
+  - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
+
+    - tuttO - get flirty!
+
+  - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
+    - BIG SIGNAL: SUMMON HELP 1CLICK
+
 ## Review - tracking time
 
 - [Slide Show Delay](https://github.com/molab-itp/09-SlideShowDelay)
