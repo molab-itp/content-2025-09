@@ -18,6 +18,10 @@
 
 - Adam Jonah
 
+  - demoproject
+
+    - [cleanandchecked2 app](https://github.com/supertutorai/demoproject)
+
   - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
 
     - tuttO - get flirty!
