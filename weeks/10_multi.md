@@ -60,14 +60,15 @@
 
   - https://github.com/lydia-lll/ARProject_OperaBand
   - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
+  <!--  -->
 
 - Adam Jonah
 
   <!-- - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
     - tuttO - get flirty! -->
 
-  - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
-    - BIG SIGNAL: SUMMON HELP 1CLICK
+  <!-- - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
+    - BIG SIGNAL: SUMMON HELP 1CLICK -->
 
 - Ahmed DB
   - [Ahmed Proposal](https://github.com/molab-itp/content-2023-Fa/wiki/02-Ahmed-Dadabai)

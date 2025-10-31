@@ -18,9 +18,9 @@
 
 - Adam Jonah
 
-  - demoproject
+  - [cleanandchecked2 app](https://github.com/supertutorai/demoproject)
 
-    - [cleanandchecked2 app](https://github.com/supertutorai/demoproject)
+    - scan bar code of product to get nut
 
   - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
 
@@ -28,6 +28,9 @@
 
   - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
     - BIG SIGNAL: SUMMON HELP 1CLICK
+    - [source adamjonah](https://github.com/adamjonah/bigsignalapps)
+    - [source molab-itp](https://github.com/molab-itp/bigsignalapps)
+      - preparing for open source collaboration
 
 ## Review - tracking time
 
