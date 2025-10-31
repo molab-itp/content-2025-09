@@ -147,8 +147,11 @@
   - Option 1:
 
     - setup a firebase project and build one of the firebase tutorial apps
+    - use our class repo to get the correct version of SDK for current OS
       - FireCards
+        - https://github.com/molab-itp/09-FireCards
       - MakeItSo
+        - https://github.com/molab-itp/09-MakeItSo
 
   - Option 2:
 
