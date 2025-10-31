@@ -64,7 +64,7 @@
 
 ## Saving Data - Cloud
 
-- [09-ChipsSaveCloud](https://github.com/molab-itp/09-ChipsSaveCloud)
+- [09-ChipsLobbyCloud](https://github.com/molab-itp/09-ChipsLobbyCloud)
   - in private class repo
 
 ## The big picture

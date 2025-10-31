@@ -56,13 +56,13 @@
 
 ### Featured Prior Final Projects
 
-- Lydia Lin
+<!-- - Lydia Lin
 
   - https://github.com/lydia-lll/ARProject_OperaBand
-  - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html
+  - https://lydia-lll.github.io/lydia_portfolio0/opera_face.html -->
   <!--  -->
 
-- Adam Jonah
+<!-- - Adam Jonah -->
 
   <!-- - https://apps.apple.com/us/app/tutto-get-flirty/id6471154924
     - tuttO - get flirty! -->
