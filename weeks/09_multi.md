@@ -147,7 +147,7 @@
   - Option 1:
 
     - setup a firebase project and build one of the firebase tutorial apps
-    - use our class repo to get the correct version of SDK for current OS
+    - use our class repo to get the appropriate Firebase SDK version for the tutorial
       - FireCards
         - https://github.com/molab-itp/09-FireCards
       - MakeItSo
@@ -166,14 +166,6 @@
 
   - update your wiki page with your
     - progress | problems | plans | questions
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
     -
     -
     -
