@@ -84,9 +84,11 @@ We aim to create distributed instruments for computed expression.
 
 ## iOS-Android-Web Alternatives
 
-- [React Native -- Learn once, write anywhere](https://reactnative.dev/)
-- [NativeScript -- Empower JavaScript with native APIs](https://nativescript.org/)
-- [Flutter/Dart -- Build for any screen](https://flutter.dev/)
+- [React Native -- ](https://reactnative.dev/) Learn once, write anywhere
+- [NativeScript -- ](https://nativescript.org/) Empower JavaScript with native APIs
+- [Flutter/Dart -- ](https://flutter.dev/) Build for any screen
+- [Compose Multiplatform -- ](https://www.jetbrains.com/compose-multiplatform/) Build shared UIs for Android, iOS, desktop, and web
+  - [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform/)
 
 ## Resources - Swift
 
