@@ -86,6 +86,9 @@
 
 - write your final project proposal on your wiki page
 
+  - describe your final project
+  - provide week by week work plan
+
 - create a Week10 folder for your project
 - OR a public github repo and add link to it here:
 - [wiki home page week10](https://github.com/molab-itp/content-2025-09/wiki#week-10-homework)
