@@ -70,7 +70,7 @@
   <!-- - https://apps.apple.com/us/app/big-signal-summon-help-1click/id6472224823
     - BIG SIGNAL: SUMMON HELP 1CLICK -->
 
-- Ahmed DB
+- Example of a final project: Ahmed DB
   - [Ahmed Proposal](https://github.com/molab-itp/content-2023-Fa/wiki/02-Ahmed-Dadabai)
   - [wk 14](https://github.com/Ahmed54123/Ahmed_molab-2023/tree/main/Final%20Assets),
   - [figma mockup](https://www.figma.com/file/pD43XutC2079OJenlvmMP1/Fridge?type=design&node-id=0-1&mode=design&t=GmVAiVgbJBCplJ14-0),
@@ -80,13 +80,14 @@
 
 - https://developer.apple.com/swift-student-challenge/
   - February 2025 deadline - offered yearly
+  - for young folks
 
 ## Homework Week10
 
 - write your final project proposal on your wiki page
 
-- create a Week10 folder for your project and add link to it here:
-
+- create a Week10 folder for your project
+- OR a public github repo and add link to it here:
 - [wiki home page week10](https://github.com/molab-itp/content-2025-09/wiki#week-10-homework)
 
   - update your wiki page with your
