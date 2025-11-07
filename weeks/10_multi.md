@@ -16,6 +16,23 @@
 
 - [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
 
+  - for repo, select
+
+- manual refactor
+
+- GitHub Copilot in VS Code
+  https://education.github.com/pack?utm_source=chatgpt.com
+
+- cursor
+  https://cursor.com
+
+- claude
+  https://www.youtube.com/watch?v=6eBSHbLKuN0&list=WL&index=14
+  Mastering Claude Code in 30 minutes
+
+- Xcode ai chat
+  https://developer.apple.com/documentation/xcode/writing-code-with-intelligence-in-xcode
+
 ## Guest App
 
 - [supertutorai/demoproject](https://github.com/supertutorai/demoproject)
@@ -87,10 +104,10 @@
 - write your final project proposal on your wiki page
 
   - describe your final project
-  - provide week by week work plan
+  - include week by week work plan
 
 - create a Week10 folder for your project
-- OR a public github repo and add link to it here:
+- OR a create public github repo and add link to it here:
 - [wiki home page week10](https://github.com/molab-itp/content-2025-09/wiki#week-10-homework)
 
   - update your wiki page with your
