@@ -65,11 +65,13 @@
 ## Saving Data - Cloud
 
 - [09-AnonLobbyCloud](https://github.com/molab-itp/09-AnonLobbyCloud.git)
+
   - Anonymous Lobby for Firebase
   - in private class repo
 
-<!-- - [09-ChipsLobbyCloud](https://github.com/molab-itp/09-ChipsLobbyCloud)
-  - in private class repo -->
+- [09-ChipsLobbyCloud](https://github.com/molab-itp/09-ChipsLobbyCloud)
+  - in private class repo
+  - prior version
 
 ## The big picture
 
