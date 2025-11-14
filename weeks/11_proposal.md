@@ -35,7 +35,12 @@
 
 ## Resources
 
+- [09-AnonLobbyCloud](https://github.com/molab-itp/09-AnonLobbyCloud.git)
+
+  - Anonymous Lobby for Firebase
+
 - [99-Flag-Flow](https://github.com/molab-itp/99-Flag-Flow.git)
+
   - exploration flow examples
   - EarthFlags - Origin Story
 
