@@ -70,6 +70,7 @@
 
 - [Bookworm: Introduction](https://www.hackingwithswift.com/books/ios-swiftui/bookworm-introduction) "Use Core Data to build an app that tracks books you like"
   - one example from HackingWithSwift book
+  - [Bookworm code](https://github.com/jht9629-nyu/HackingWithSwift/tree/main/SwiftUI/project11)
 
 ### Featured Prior Final Projects
 
