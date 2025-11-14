@@ -35,6 +35,10 @@
 
 ## Resources
 
+- [06-ChipsSaveJSON](https://github.com/molab-itp/06-ChipsSaveJSON)
+
+  - refactor using AI, checkout the branches
+
 - [09-AnonLobbyCloud](https://github.com/molab-itp/09-AnonLobbyCloud.git)
 
   - Anonymous Lobby for Firebase
