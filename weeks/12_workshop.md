@@ -22,10 +22,14 @@
 ## Homework Week12
 
 - continue working on your final project
-  - how will you track your project?
-    - homework folder | new repo
-    - note how and put a link in your wiki page
-- be prepared to present and discuss
+- how will you track your project?
+  - homework folder | new repo
+  - note how and put a link in your wiki page
+- be prepared to present and discus
+- in class we will
+
+  - build your project
+  - test your project
 
 - [wiki home page week12](https://github.com/molab-itp/content-2025-09/wiki#week-12-homework)
 
