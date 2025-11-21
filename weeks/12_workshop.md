@@ -8,14 +8,14 @@
 
 - Questions
 
-## Earth Flags Demo App
+<!-- ## Earth Flags Demo App
 
 - [EarthFlags](https://github.com/molab-itp/99-Flag-Flow/tree/main/EarthFlags)
 
   - demo desktop
   - demo on device
   - structuring code for readability
-  - download package contents to look at JSON
+  - download package contents to look at JSON -->
 
 ## Questions
 
