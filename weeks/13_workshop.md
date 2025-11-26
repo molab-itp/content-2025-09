@@ -12,6 +12,7 @@
 
   - [using cursor ai ](https://cursor.com/home)
   - /Users/jht2/Documents/projects/\_molab-repos/a-98/98-MoGallery-Private/ai-chat-log.txt
+  - [firebase firestore](https://console.firebase.google.com/u/0/project/molab-485f5/firestore/databases/-default-/data/~2Fgstore~2Fmo-5)
 
 ## The Future of Swfit and iOS Development
 
