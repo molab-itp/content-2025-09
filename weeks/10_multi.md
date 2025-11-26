@@ -23,7 +23,7 @@
 - GitHub Copilot in VS Code
   https://education.github.com/pack?utm_source=chatgpt.com
 
-- cursor
+- cursor ai
   https://cursor.com
 
 - claude
