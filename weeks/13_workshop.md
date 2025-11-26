@@ -7,8 +7,16 @@
 ## Continuing iOS development
 
 - [Sean Allen - iOS Dev Courses](https://www.youtube.com/@seanallen)
+
   - [seanallen.teachable.com](https://seanallen.teachable.com/)
+
 - [Paul Hudson - Hacking with Swift+ ](https://twostraws.gumroad.com/l/hws-subscription)
+
+- [youtube Firebase firestore](https://www.youtube.com/@Firebase/search?query=firestore)
+
+- [Build native apps for iPhone and Android with Skip](https://skip.tools/)
+  - [blog official-swift-sdk-for-android](https://skip.tools/blog/official-swift-sdk-for-android/)
+  - "Swift on Android is available today, it has official backing by the Swift project, and it is here to stay."
 
 ## Homework Week13
 
