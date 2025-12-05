@@ -47,3 +47,19 @@
 
 - update your wiki page
   - progress | problems| plans | questions
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
